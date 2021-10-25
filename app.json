@@ -3,12 +3,13 @@
     "name": "mobile_heat",
     "slug": "mobile_heat",
     "version": "1.0.0",
+    "scheme": "mobile_heat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#121214"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
